@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://www.wunforcedmigrantsproject.org/
 languageCode: en-us
 title: Regional Approaches Toward Forced Migrants
 theme: hugo-lithium
@@ -15,20 +15,20 @@ permalinks:
 menu:
   main:
     - name: Home
-      url: /index/
+      url: /home/index/
     - name: About
-      url: /about/
+      url: /home/about/
     - name: Members
-      url: /members/
+      url: /home/members/
     - name: Projects
-      url: /projects/
+      url: /home/projects/
     - name: Resources 
-      url: /resources/
+      url: /home/resources/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
   description: A website built through Hugo and blogdown.
-  favicon: favicon.ico
+  favicon: favicon-3.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
     - r
@@ -36,7 +36,7 @@ params:
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
   logo:
-    alt: Logo
-    height: 50
-    url: logo.png
-    width: 50
+    alt: logo
+    height: 200
+    url: wunlogo2.png
+    width: 200
