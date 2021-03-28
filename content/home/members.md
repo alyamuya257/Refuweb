@@ -7,7 +7,7 @@ title:
 
 David [Mednicoff](https://www.umass.edu/spp/people/faculty/david-mednicoff) - **University of Massachusetts Amherst** 
 
-[![Alt text](/images/mednicoff.jpg)]((https://www.umass.edu/spp/people/faculty/david-mednicoff))
+[![Alt text](/images/mednicoff.jpg)](https://www.umass.edu/spp/people/faculty/david-mednicoff)
 
 
 Surabhi [Chopra](https://www.law.cuhk.edu.hk/app/people/prof-surabhi-chopra/) - **The Chinese University of Hong Kong**
@@ -42,17 +42,17 @@ David [Hodgkinson](https://research-repository.uwa.edu.au/en/persons/david-hodgk
 
 Erika [Techera](https://research-repository.uwa.edu.au/en/persons/erika-techera) - **The University of Western Australia**
 
-[![Alt text](/home/images/techera.jpg)](https://research-repository.uwa.edu.au/en/persons/david-hodgkinson)
+[![Alt text](/home/images/techera.jpg)](https://research-repository.uwa.edu.au/en/persons/erika-techera)
 
 
 Rebecca [Hamlin](https://polsci.umass.edu/people/rebecca-hamlin) - **University of Massachusetts Amherst**
 
-[![Alt text](/home/images/hamlin.jpg)](https://research-repository.uwa.edu.au/en/persons/david-hodgkinson)
+[![Alt text](/home/images/hamlin.jpg)](https://polsci.umass.edu/people/rebecca-hamlin)
 
 
 Migai [Akech](https://profiles.uonbi.ac.ke/amigai) - **University of Nairobi**
 
-[![Alt text](/home/images/migai.jpg)](https://research-repository.uwa.edu.au/en/persons/david-hodgkinson)
+[![Alt text](/home/images/migai.jpg)](https://profiles.uonbi.ac.ke/amigai)
 
 
 
