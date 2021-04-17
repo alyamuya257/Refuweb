@@ -4,13 +4,13 @@ title: Projects
 ---
 
 # Presentations 
-[Presentation-Sliedregt2021](/home/papers/WUNworkshop2021.pdf)
+[Presentation-Sliedregt2021](home/papers/WUNworkshop2021.pdf)
 
-[Presentation-Mednicoff2021](/content/home/papers/RegionalrefugeepaperDoha2021.pdf)
+[Presentation-Mednicoff2021](/home/papers/RegionalrefugeepaperDoha2021.pdf)
 
 # Papers and Abstracts 
-[Paper1-Lyamuya2020](/content/home/papers/Regionalapproachestowardrefugees2020.pdf)
+[Paper1-Lyamuya2020](/home/papers/Regionalapproachestowardrefugees2020.pdf)
 
 [Paper2-Lyamuya2020](/home/papers/Palestinianrefugees2020.pdf)
 
-[Abstract-Mednicoff2021](home/papers/DohainstituteWUN2021.pdf)
+[Abstract-Mednicoff2021](/home/papers/DohainstituteWUN2021.pdf)
